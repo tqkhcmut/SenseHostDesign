@@ -223,6 +223,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUYHAJMN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for SenseHost\Design Rule Check - SenseHost.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
